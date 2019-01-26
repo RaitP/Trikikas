@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "C:/Users/raitp/Documents/Unity t\xF6\xF6d/New Unity Project/Assets/ok.unity"
+  isLoaded: 1
+  isActive: 1
